@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👩‍💻 I'm Juana Valentina — a Systems & Computing Engineering student passionate about using data to solve real-world problems.<br><br>🔍 I’m currently working on developing personal projects in data analysis, AI, and big data — always learning by doing!<br><br>🤝 I’m looking to collaborate on meaningful, data-driven initiatives where I can apply my technical skills and grow as a professional.<br><br>🧠 I’m naturally curious, a great team player, and love approaching challenges with creativity, empathy, and analytical thinking.<br><br>📊 Tools I enjoy working with: Python, R, SQL, PostgreSQL, Power BI, Tableau & Kaggle.<br><br>🌱 I’m currently diving deeper into machine learning and predictive modeling — and yes, I love a good data visualization too!<br><br>💬 Ask me about how I use data to tell stories, solve problems, or build dashboards. I’m always open to sharing and learning together.<br><br><br>
 
 
